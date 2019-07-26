@@ -1,0 +1,3 @@
+displayName = Arcana Suprema
+author = Zotsky
+version = 0.1
